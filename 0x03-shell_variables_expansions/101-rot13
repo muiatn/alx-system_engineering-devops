@@ -1,2 +1,2 @@
-#!/ova/onfu
-cnfgr -q" " -- | phg -s 1
+#!/bin/bash
+paste -d" " -- | cut -d" " -f 1
